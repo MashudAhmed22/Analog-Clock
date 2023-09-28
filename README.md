@@ -10,7 +10,7 @@ Clone this repository to your local machine.
 Open index.html in your web browser to see the analog clock in action.
 Customize the clock's appearance and behavior by editing the provided HTML, CSS, and JavaScript files.
 
-##Contributions:
+## Contributions:
 Contributions, bug reports, and feature requests are welcome! Fork the repository, make your changes, and submit a pull request.
 ## License:
 This project is licensed under the MIT License. See LICENSE for details.
